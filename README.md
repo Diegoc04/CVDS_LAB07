@@ -1,2 +1,0 @@
-# CVDS_LAB07
-LAB07
